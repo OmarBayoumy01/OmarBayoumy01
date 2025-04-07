@@ -27,7 +27,6 @@ Front-End developer with 2+ Years of Experience passionate about crafting intuit
 ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAgElEQVR4nGNgoDZoZpDfA6Q1gfQ2BgziGcBYE4h3AbECFteATLsJxF5oEllAbADE3kjsnUDsjsbfAcRaQKwAxL+BeAkQBwGxJJrEByB2QOLvAeIkIN4O5YNM+gfEE4BYC4j3A/EWJIk9QOwBxJeAWBTqpJNArIRkEhgADW9gogMGAOGpUB3pI6RIAAAAAElFTkSuQmCC)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Agile](https://img.shields.io/badge/agile-%230079BF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
