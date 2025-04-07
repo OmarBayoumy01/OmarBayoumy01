@@ -2,7 +2,6 @@
 
 Front-End developer with 2+ Years of Experience passionate about crafting intuitive, high-performance web applications with modern technologies. Proficient in React, Vue, Next, TypeScript, and JavaScript (ES6+), with hands-on experience building scalable, responsive UIs and integrating RESTful APIs. Adept at translating design wireframes into clean, maintainable code while prioritizing accessibility and cross-browser compatibility.
 
-## 🌐 Socials:
 
 ## 🌐 Socials:
 
