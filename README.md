@@ -32,8 +32,8 @@ Front-End developer with 2+ Years of Experience passionate about crafting intuit
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=OmarBayoumy01&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OmarBayoumy01&theme=dark&hide_border=true)<br/>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d2bnduaWRqY3I2bzZma2pkZzBxY2x5OWpqdWx6NjBlOXRvNWg4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBayoumy01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
